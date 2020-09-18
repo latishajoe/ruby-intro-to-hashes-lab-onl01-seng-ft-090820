@@ -20,6 +20,7 @@ def monopoly_with_second_tier
 			:pieces => 4
 			:names => {}
 			:rent_in_dollars => {}
+binding.pry
 		}
 	}
  end
